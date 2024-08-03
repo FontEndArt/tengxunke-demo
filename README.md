@@ -1,4 +1,10 @@
-# DEMO说明
+# 腾讯课堂下载课程DEMO - Node版 说明
+
+本Demo基于NodeJS编写, 并不是成品，仅供参考。
+
+如果需要实际使用，还需基于Demo写一些遍历的逻辑。欢迎PR
+
+当然2024年10月1日，腾讯课堂就正式关闭服务，本Demo到时同时废弃。
 
 # 1. 安装依赖
 
@@ -42,3 +48,7 @@ npm install
 ```
 node index.js
 ```
+
+
+# 鸣谢
+https://github.com/HarryWang29/tencentKeTang
